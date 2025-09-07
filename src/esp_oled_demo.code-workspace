@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../esp_oled_demo"
+		},
+		{
+			"name": "TFT_weather",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
